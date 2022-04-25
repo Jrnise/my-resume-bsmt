@@ -1,0 +1,28 @@
+body {
+  margin: 30px;
+  padding: 10px;
+  border-width: 4px;
+  border-color: darkcyan cyan; 
+  border-style: dashed;
+  background-color: black; color: white;
+}
+
+header {
+  font-family: cursive;
+}
+
+h1 { 
+  margin: 0;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  padding-top:0.67em;
+}
+main {
+  padding: 20px;
+}
+
+#small-text {
+  font-size:15px
+  margin: 0;
+  padding:1em;
+}
